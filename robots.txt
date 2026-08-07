@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-jcls2l.hsteamid.com/sitemap.xml
